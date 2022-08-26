@@ -26,7 +26,7 @@ import com.gsore.service.UserService;
 import com.gsore.service.impl.UserSecurityService;
 
 import utility.PasswordSecurityUtility;
-
+//Controller 
 @Controller
 public class AccountController {
 
